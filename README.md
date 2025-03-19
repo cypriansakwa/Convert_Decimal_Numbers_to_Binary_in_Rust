@@ -26,3 +26,16 @@ fn main() {
 }
 
 ```
+## Running the Code
+1. Ensure you have Rust and Cargo installed.
+2. Clone this repository:
+```sh
+git clone https://github.com/cypriansakwa/Convert_Decimal_Numbers_to_Binary_in_Rust.git
+cd Convert_Decimal_Numbers_to_Binary_in_Rust
+```
+4. Run the program:
+```sh
+cargo run
+```
+
+   
